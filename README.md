@@ -1,0 +1,2 @@
+# group_send_tim_messages
+用pymouse&amp;pykeyboard直接操作Windows-TIM发送信息给指定好友们
