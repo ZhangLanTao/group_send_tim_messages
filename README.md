@@ -12,6 +12,7 @@ pyhook
 PyUserInput
 
 注：pyhook需要手动安装，详见github相关页面
+注：github上传了已经编译的pyhook，将其放在python/Lib/site-packages下，在pyhook文件夹中powershell（管理员），运行pip install . ，可安装（不保证可用。）
 
 ## 使用说明：
 
